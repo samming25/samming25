@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @samming25
 - 👀 I’m interested in developing new technologies and learning new facts.
-- 🌱 I’m currently learning Web Development. 
+- 🌱 Web Developer.
+-  
 
 <!---
 samming25/samming25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
